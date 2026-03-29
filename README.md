@@ -20,6 +20,7 @@ workflows and answer questions in plain English.
 ! AWS
 ! Kafka
 ! React
+
 ---
 
 ## 🚀 Featured project
@@ -34,6 +35,7 @@ of the data issue — bridging data infra and AI observability.
 Ask a question in plain English, get a SQL query + written insight back.
 Built with FastAPI + Streamlit, powered by an LLM backend.
 `Python` `FastAPI` `Streamlit` `LLM API` `PostgreSQL`
+
 ---
 
 ## 📌 What I'm focused on
