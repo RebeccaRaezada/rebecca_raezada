@@ -30,11 +30,13 @@ End-to-end ELT pipeline on real-world data with automated dbt quality
 tests. When tests fail, an LLM generates a human-readable explanation
 of the data issue — bridging data infra and AI observability.
 `Python` `dbt` `Airflow` `PostgreSQL` `LLM API` `GitHub Actions`
+Link to project: https://github.com/RebeccaRaezada/elt_pipeline_ai 
 
 ### 🤖 Agentic data assistant — natural language to SQL
 Ask a question in plain English, get a SQL query + written insight back.
 Built with FastAPI + Streamlit, powered by an LLM backend.
 `Python` `FastAPI` `Streamlit` `LLM API` `PostgreSQL`
+Link to project: Coming soon!
 
 ---
 
